@@ -1,0 +1,15 @@
+{
+  "name": "@craigmiller160/webpack-config-ts",
+  "version": "1.0.0-beta",
+  "main": "webpack.config.js",
+  "author": "craigmiller160",
+  "publishConfig": {
+    "registry": "https://craigmiller160.ddns.net:30003/repository/npm-private/"
+  },
+  "scripts": {
+    "build": "echo 'No build required'"
+  },
+  "files": [
+    "webpack.config.js"
+  ]
+}
